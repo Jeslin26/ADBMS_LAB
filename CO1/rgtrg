@@ -1,0 +1,1 @@
+ db.emp.insert({eid:101,ename:"jeslin",dept:"mca",design:"hod",salary:100000,yoj:2014,address:{dno:101,street:"johns villa",locality:"Aranattukara",city:"thrissur"}})
